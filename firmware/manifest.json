@@ -1,0 +1,22 @@
+{
+    "devices": [
+        {
+            "device_role": "Z3Light",
+            "device_id": "Light_01",
+            "ip_address": "192.168.0.100",
+            "firmware": "Z3Light.s37"
+        },
+        {
+            "device_role": "Z3Switch",
+            "device_id": "Switch_01",
+            "ip_address": "192.168.0.103",
+            "firmware": "Z3Switch.s37"
+        },
+        {
+            "device_role": "NCP",
+            "device_id": "NCP",
+            "ip_address": "192.168.0.107",
+            "firmware": "ncp-uart-hw.s37"
+        }
+    ]
+}
